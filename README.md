@@ -1,17 +1,17 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://khaled-mohamed1.io/)
 <h1 align="center">Hi 👋, I'm Khaled Mohammed</h1>
-<h3 align="center">A passionate Back-End developer from Palestine</h3>
+<h3 align="center">A passionate Back-End developer from Palestine </h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-mohamed1&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-mohamed1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **...**
+🔭: I'm currently working on **...**
 
-- 🌱 I’m currently learning **Back-End PHP-Laravel / Restful API / Front-End**
+🌱: I'm currently learning **Back-End PHP-Laravel / Restful API / Front-End**
 
-- 👯 I’m looking to collaborate on **MenaSchool**
+👯: I was collaborating with **MenaSchool**
 
 - 💬 Ask me about **PHP-Laravel / React JS**
 
