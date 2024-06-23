@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **khaled.1m2h3o@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B4drSMmZ7qavquSwduW-LEk7OAXasKD9/view?usp=sharing](https://drive.google.com/file/d/1B4drSMmZ7qavquSwduW-LEk7OAXasKD9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B4drSMmZ7qavquSwduW-LEk7OAXasKD9/view](https://drive.google.com/file/d/1B4drSMmZ7qavquSwduW-LEk7OAXasKD9/view)
 
 - ⚡ Fun fact **The last song you played on Spotify. ...**
 
